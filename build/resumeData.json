@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Andrew Myers",
+    "occupation": "Web Developer",
+    "description": "Highly organized and communicative developer with a passion to creatively tackle and solve problems.",
+    "image": "profilepic.jpg",
+    "bio": "With my diverse experience and work background, I am able to bring in unique perspectives on problems with a clear vision of solutions and outcomes.",
+    "contactmessage": "Shoot me a message.  Let's talk.",
+    "email": "andrew@publicprint.co",
+    "phone": "434-509-3451",
+    "address": {
+      "street": "1414 Wyoming St",
+      "city": "Kansas City",
+      "state": "Missouri",
+      "zip": "64102"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrew-myers-861088196/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/andrewjohnmyers/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ajmyers5",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Lynchburg",
+        "degree": "Bachelors of Science - Biology",
+        "graduated": "May 2013",
+        "description": ""
+      },
+      {
+        "school": "University of Kansas",
+        "degree": "Full Stack Web Development Bootcamp",
+        "graduated": "May 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Public Print Co",
+        "title": "Co-owner & Co-operator",
+        "years": "November 2018 - Present",
+        "description": "A boutique print shop specializing in letterpress print work - If you can think of it on paper, we can do it."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "65%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TinDev",
+        "category": "An app developed to connect web developers",
+        "image": "TinDevLandingPage.jpg",
+        "url": "http://tindevku.herokuapp.com/"
+      },
+      {
+        "title": "Corona Typer",
+        "category": "A fastpaced typing game",
+        "image": "CoronaTyper.jpg",
+        "url": "https://project2-coolbeanzzzzz.herokuapp.com/#!"
+      },
+      {
+        "title": "BeerMe",
+        "category": "An app developed to find delicious local beers wherever you find yourself.",
+        "image": "BeerMe.jpg",
+        "url": "https://ajmyers5.github.io/Group-666/#"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": ""
+      }
+    ]
+  }
+}
